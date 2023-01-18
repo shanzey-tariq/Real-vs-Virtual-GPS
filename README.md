@@ -1,2 +1,3 @@
 # Real-vs-Virtual-GPS
-ML Project
+
+Machine Learning Project
